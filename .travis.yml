@@ -20,5 +20,5 @@ notifications:
     urls:
       - http://staging-learn.rmotr.com/webhooks/travis/build-finished
     on_success: always
-    on_failure: never
+    on_failure: always
     on_start: never
