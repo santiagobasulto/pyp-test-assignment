@@ -7,4 +7,4 @@ class TestSample(unittest.TestCase):
         self.assertEqual(1, 1)
 
     def test_other_sample(self):
-        self.assertEqual(1, 1)
+        self.assertEqual(1, 2)
